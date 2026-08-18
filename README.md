@@ -132,15 +132,18 @@ Machine Learning powered weather forecasting application with interactive dashbo
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Maria-Tariq540&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maria-Tariq540&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Tariq540&layout=compact&theme=tokyonight&hide_border=true)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maria-Tariq540&theme=tokyonight" alt="GitHub Stats Card" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maria-Tariq540&theme=tokyonight" alt="Repos per Language" />
+    </td>
+  </tr>
+</table>
 
 </div>
-
----
 
 # Connect With Me
 
